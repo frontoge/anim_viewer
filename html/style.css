@@ -1,0 +1,10 @@
+#container {
+    display: none;
+    background: radial-gradient(#198f98,#2468d2);
+    box-shadow: 10px 10px 15px 4px #182da0;
+    position: absolute;
+    height: 90%;
+    bottom: 5%;
+    left: 1%;
+    width: 26%;
+}
